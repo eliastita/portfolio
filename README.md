@@ -40,6 +40,8 @@ Nota: La opción de editar y eliminar instrumentos musicales solo le está permi
 
 ### Bases tomadas de una plantilla gratis de bootstrap y la idea de un ecommerce de instrumentos de musica de un antiguo alumno.
 
+# Fuente de aprendizaje
+En este momento estoy aprendiendo el lenguaje de programación Python y el Framework Django en CoderHouse, su finalizacion es el 27 de marzo de 2023.
 
 
 
